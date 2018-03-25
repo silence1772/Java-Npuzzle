@@ -1,0 +1,117 @@
+.root {
+	-fx-alignment: center;
+}
+.root-background {  
+    -fx-fill: linear-gradient(#edf7ef, #fbe0ba);
+}
+
+.game-background {
+	-fx-fill: #baaca0;
+	-fx-arc-height: 25;
+	-fx-arc-width: 25;
+}
+
+.grid-background {
+	-fx-fill: #d5ccc3;
+	-fx-arc-height: 25;
+	-fx-arc-width: 25;
+}
+
+.grid {
+	-fx-arc-height: 25;
+	-fx-arc-width: 25;
+}
+
+.color-0 {
+	-fx-fill: #fe9696;
+}
+
+.color-1 {
+	-fx-fill: #50e39a;
+}
+
+.color-2 {
+	-fx-fill: #adfcf2;
+}
+
+.color-3 {
+	-fx-fill: #f1b078;
+}
+
+.color-4 {
+	-fx-fill: #bd7753;
+}
+
+.color-5 {
+	-fx-fill: #f65d3a;
+}
+
+.color-6 {
+	-fx-fill: #f76699;
+}
+
+.color-7 {
+	-fx-fill: #d4cf50;
+}
+
+.color-8 {
+	-fx-fill: #d7b546;
+}
+
+.color-9 {
+	-fx-fill: #917519;
+}
+
+.text-color {
+	-fx-fill: #fef5f1;
+	-fx-font-weight: bold;
+	-fx-font-size: 40px;
+}
+
+.ui-color {
+	-fx-fill: #804000;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+}
+
+.font-size-20 {
+	-fx-font-size: 20px;
+}
+
+.font-size-24 {
+	-fx-font-size: 26px;
+}
+
+.font-size-28 {
+	-fx-font-size: 28px;
+}
+.color-white {
+	-fx-fill: #ffffff;
+}
+
+.font-size-16 {
+	-fx-font-size: 16px;
+}
+
+.ui-background {
+	-fx-fill: #baaca0;
+	-fx-arc-height: 25;
+	-fx-arc-width: 25;
+}
+
+.gameover-back1 {
+	-fx-fill: #000;
+	-fx-opacity: 0.7;
+}
+
+.gameover-back2 {
+	-fx-fill: #baaca0;
+	-fx-arc-height: 25;
+	-fx-arc-width: 25;
+}
+
+.gameover-button {
+	-fx-fill: #9b8764;
+	-fx-arc-height: 25;
+	-fx-arc-width: 25;
+}
